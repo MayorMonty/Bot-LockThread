@@ -1,0 +1,13 @@
+{
+  "name": "LockThread",
+  "version": "0.0.0",
+  "description": "Reddit bot to Lock Threads on Reddit after 7 days",
+  "main": "main.js",
+  "repository": "https://github.com/MayorMonty/Bot-LockThread",
+  "author": "MayorMonty <artificalchamber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "snoostorm": "^0.0.5",
+    "snoowrap": "^1.14.0"
+  }
+}
