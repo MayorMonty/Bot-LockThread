@@ -1,6 +1,5 @@
 const db      = require("./lib/db"),
 			client  = require("./lib/client"),
-		  version = require("./package").version,
 		  locks   = require("./locks");
 
 
