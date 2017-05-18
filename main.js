@@ -6,7 +6,7 @@ const db      = require("./lib/db"),
 
 
 const submissionStream = client.streamingClient.SubmissionStream({
-  "subreddit": "all",
+  "subreddit": "alcohol",
   "results": 5
 })
 
