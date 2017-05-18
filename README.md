@@ -14,6 +14,7 @@ A simple bot to lock threads after 7 days. Made for [/u/CWinthrop/](https://redd
 	4.1. To get the client id and client secret, login as JeremiahPThomas and navigate to https://reddit.com/prefs/apps. There you will see an application called LockThread
 
 	4.2. Enter all of this information, in this format, to `credentials.json`:
+	   
 	   {                              
 			"userAgent": "nodejs:lockthread:$version (by /u/MayorMonty)",
 			"clientId": "<client ID>",                            
